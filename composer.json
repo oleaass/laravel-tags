@@ -20,9 +20,6 @@
     "extra": {
         "laravel": {
             "providers": "OleAass\\Tags\\TagsServiceProvider"
-        },
-        "branch-alias": {
-            "1.0.0": "@dev"
         }
     }
 }
